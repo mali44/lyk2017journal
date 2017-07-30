@@ -29,7 +29,7 @@ or
 *a
 *a
 *a
-
+	
 1.  Number one
 1. 	Number two
 1.  Number three
@@ -37,9 +37,6 @@ or
 
 # Heading 1
 Hello everyone this [link](google.com)
-name | email
-:-------:|:-------:
-a | b
-c | d
 
+[this an old photo](http://www.bugsbunnyctf.me/files/631082592131031869f1804e070a67bb/logoTrns.png)
 
