@@ -24,9 +24,14 @@ end
 Ruby 
  - dash
 
-or ;
-* a
-* a
-* a
-* a
+or 
+*a
+*a
+*a
+*a
+
+1.  Number one
+1. 	Number two
+1.  Number three
+
 
