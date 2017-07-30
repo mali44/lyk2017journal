@@ -24,7 +24,7 @@ end
 Ruby 
  - dash
 
-or 
+or ;
 *a
 *a
 *a
