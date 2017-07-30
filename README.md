@@ -25,8 +25,8 @@ Ruby
  - dash
 
 or ;
-*a
-*a
-*a
-*a
+* a
+* a
+* a
+* a
 
