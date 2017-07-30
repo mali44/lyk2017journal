@@ -11,4 +11,9 @@
 
 class Tag < ApplicationRecord
   validates :name, :slug, presence: true
+
+  validates :slug, presence: true
+  validates :email, format: { with: /\A([^@\s]+)@((?:[-a-z0-9]+\.)+[a-z]{2,})\z/i, on: :create }
+  validates :password, length: {minimum:8, maximum: 30 }
+  
 end
