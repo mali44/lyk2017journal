@@ -1,7 +1,7 @@
 # Heading 1
 AAAA
 
-# Heading 2 
+## Heading 2 
 -Hello World
 	-Alo
 	-Dunya
@@ -11,4 +11,12 @@ AAAA
 	-b
 	-c
 
-	
+In this case : `x-5`
+```ruby
+x =5 
+a= 1,2,3
+a.each do |numeric|
+	numeric+=2
+	puts "hello #{numeric}"
+end
+```
